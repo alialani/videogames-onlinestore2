@@ -1,0 +1,50 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#map-container { height: 260px; }	
+
+html {
+	margin: 0; 
+	padding: 0;
+}
+
+body {
+	margin-top: 0;
+	padding-top: 0;
+	background-image: url(../img/games/video-games-death-lara-croft-characters-geralt-of-rivia-raiden-wide.jpg);
+	color: white;
+}
+
+
+.jumbotron {
+ 	background-image: url(../img/games/header.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover; 
+
+}
+
+.share-it {
+	margin-right: 10px; 
+	position: absolute;
+	margin-top: -64px; 
+	right: 0;
+	}
+
+.share-it a {
+	margin-right: 10px;
+}
+
+.carousel-control {
+  padding-top:10%;
+  width:5%;
+}
+
+
+
+
+
+
+
+
